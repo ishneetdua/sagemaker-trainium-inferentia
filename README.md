@@ -1,4 +1,4 @@
-# Use SageMaker with Trainium and Inferentia for optimized deep learning training and inferencing workloads
+# Use SageMaker with Trainium and Inferentia for optimized deep learning training and inferencing workloads - Stability/Poolside/Anthropic
 
 This work demonstrates how to use [SageMaker](https://aws.amazon.com/sagemaker/ "AWS SageMaker") to leverage [AWS Trainium](https://aws.amazon.com/machine-learning/trainium/ "AWS Trainium") and AWS [Inferentia](https://aws.amazon.com/machine-learning/inferentia/ "AWS Inferentia") for an end-to-end experience
 of model training and inferencing. Both Trainium and Inferentia processors are designed and optimized to support deep learning workloads in AWS Cloud.
